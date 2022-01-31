@@ -1,0 +1,6 @@
+{
+  "require" : {
+    "prodigyview/prodigyview": "^0.9.8",
+    "guzzlehttp/guzzle": "^7.4"
+  }
+}
